@@ -1,3 +1,21 @@
+* {
+  font-family: Helevetica, sans-serif;
+  font-weight: bold;
+}
+
 h1 {
-  color: red;
+  background-image: url("./resources/building.png")
+  text-align: center;
+  color: white;
+  font-size: 70px;
+}
+
+li {
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+.banner {
+  opacity: 0.7;
 }
